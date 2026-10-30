@@ -1,3 +1,8 @@
+🌐 Live Demo
+🔗 Live Application: https://simran-001-ai-resume-screening-system-app-rxhd1y.streamlit.app/
+
+
+
 # AI-Based Resume Screening & Candidate Shortlisting System
 
 Upload a job description and a batch of resumes (PDF / DOCX / TXT). The system parses them, scores every
