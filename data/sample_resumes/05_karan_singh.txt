@@ -1,0 +1,23 @@
+KARAN SINGH
+karan.singh@example.com | 9988776655
+
+SUMMARY
+Full stack developer with 6 years of experience building web applications.
+
+SKILLS
+JavaScript, React, Node.js, Java, HTML, CSS, MongoDB, REST APIs, Git, Docker, Agile
+
+EXPERIENCE
+Senior Web Developer, PixelCraft  2019 - Present
+- Built React single page applications and Node.js REST APIs
+- Led a team of 4 developers using Agile and Scrum
+
+Web Developer, Webify  2018 - 2019
+- Developed responsive websites using HTML, CSS and JavaScript
+
+EDUCATION
+B.Tech in Computer Science, 2014 - 2018
+
+PROJECTS
+- E-commerce platform with React and Node.js
+- Real-time chat application using websockets

@@ -1,0 +1,26 @@
+SNEHA IYER
+sneha.iyer@example.com | 9090909090
+
+OBJECTIVE
+Recent graduate passionate about machine learning and NLP.
+
+SKILLS
+Python, pandas, numpy, scikit-learn, PyTorch, NLP, SQL, statistics, matplotlib, Git
+
+EXPERIENCE
+Machine Learning Intern, TextAI Labs  Jun 2024 - Dec 2024
+- Fine-tuned transformer models for text classification using PyTorch
+- Built data pipelines with pandas and SQL
+
+EDUCATION
+M.Sc in Data Science, 2022 - 2024
+B.Sc in Mathematics, 2019 - 2022
+
+PROJECTS
+- Fake news detection using NLP and scikit-learn
+- Image classification with PyTorch and OpenCV
+- Kaggle competition: top 8 percent in tabular prediction challenge
+
+CERTIFICATIONS
+- Deep Learning Specialization
+- Machine Learning by Stanford (Coursera)

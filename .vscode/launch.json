@@ -1,0 +1,26 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run CLI on sample data",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/cli.py",
+      "args": [
+        "--jd", "data/sample_jd.txt",
+        "--resumes", "data/sample_resumes",
+        "--top", "5",
+        "--evaluate", "data/ground_truth.csv"
+      ],
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Run Streamlit app",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "streamlit",
+      "args": ["run", "app.py"],
+      "console": "integratedTerminal"
+    }
+  ]
+}

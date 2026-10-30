@@ -1,0 +1,27 @@
+AARAV MEHTA
+aarav.mehta@example.com | +91 98765 43210
+Gender: Male | DOB: 12 March 1993
+
+SUMMARY
+Data scientist with 5 years of experience building machine learning models for retail and fintech.
+
+SKILLS
+Python, SQL, pandas, numpy, scikit-learn, XGBoost, feature engineering, statistics, time series forecasting, Tableau, AWS, Docker, MLflow
+
+EXPERIENCE
+Senior Data Scientist, FinEdge Analytics  Jan 2021 - Present
+- Built credit risk models with XGBoost and scikit-learn, improving AUC by 6 percent
+- Deployed models using Docker on AWS and tracked experiments with MLflow
+- Presented insights to stakeholders using Tableau dashboards
+
+Data Scientist, RetailMind  Jul 2019 - Dec 2020
+- Created demand forecasting models using time series techniques
+- Wrote complex SQL queries on 50M row tables
+
+EDUCATION
+M.Tech in Computer Science, IIT Delhi  2017 - 2019
+B.Tech in Computer Science, 2013 - 2017
+
+CERTIFICATIONS
+- AWS Certified Machine Learning Specialty
+- Deep Learning Specialization (Coursera)

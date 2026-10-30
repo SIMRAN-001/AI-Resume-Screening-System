@@ -1,0 +1,24 @@
+Rohan Verma
+rohan.verma@example.com | 7000011122
+
+SUMMARY
+Data analyst with 2 years of experience moving towards data science.
+
+SKILLS
+SQL, Excel, Tableau, Python, pandas, statistics, basic machine learning
+
+EXPERIENCE
+Data Analyst, Quantix Services  2023 - Present
+- Wrote SQL queries and built Tableau dashboards
+- Automated reports using Python and pandas
+- Ran basic regression analysis in scikit-learn
+
+Intern, DataWorks  Jan 2022 - Dec 2022
+- Cleaned datasets and performed data analysis
+
+EDUCATION
+B.Sc in Statistics, 2019 - 2022
+
+PROJECTS
+- House price prediction using linear regression
+- Sales dashboard in Tableau

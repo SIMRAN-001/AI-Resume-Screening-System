@@ -1,0 +1,2 @@
+# Optional: better semantic matching (downloads a ~90 MB model on first use, needs internet once)
+sentence-transformers>=2.2

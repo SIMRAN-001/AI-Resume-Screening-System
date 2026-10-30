@@ -1,0 +1,29 @@
+MEERA NAIR
+meera.nair@example.com | +91 9444455555
+
+SUMMARY
+Research-oriented data scientist with 7 years of experience in applied machine learning and statistical modelling.
+
+SKILLS
+Python, R programming, SQL, pandas, numpy, scikit-learn, PyTorch, statistics, feature engineering, NLP, deep learning, data visualization, Spark, AWS, MLflow, Docker
+
+EXPERIENCE
+Lead Data Scientist, HealthAI  2020 - Present
+- Led a team building predictive models for patient outcomes
+- Deployed models with Docker and MLflow on AWS
+- Communicated results to clinical stakeholders
+
+Data Scientist, BioMetrics  2017 - 2020
+- Developed statistical models and NLP pipelines for clinical text
+
+EDUCATION
+PhD in Statistics, 2013 - 2017
+M.Sc in Mathematics, 2011 - 2013
+
+PROJECTS
+- Survival analysis framework for hospital readmissions
+- Clinical NLP entity extraction pipeline
+
+CERTIFICATIONS
+- AWS Certified Machine Learning Specialty
+- Deep Learning Specialization

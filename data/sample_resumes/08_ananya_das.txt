@@ -1,0 +1,20 @@
+Ananya Das
+ananya.das@example.com | 9345612780
+
+SUMMARY
+Business data analyst with 3 years of experience in reporting and dashboards.
+
+SKILLS
+SQL, Excel, Power BI, Tableau, data analysis, data visualization, stakeholder management
+
+EXPERIENCE
+Business Analyst, ClearView Consulting  Apr 2022 - Present
+- Built Power BI dashboards for client reporting
+- Wrote SQL queries to extract and analyse sales data
+- Presented insights to senior stakeholders
+
+EDUCATION
+B.Com, 2018 - 2021
+
+CERTIFICATIONS
+- Microsoft Power BI Data Analyst Associate

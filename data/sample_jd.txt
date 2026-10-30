@@ -1,0 +1,18 @@
+Data Scientist - Machine Learning
+
+About the role
+We are looking for a Data Scientist to build and deploy machine learning models that power our product recommendations and demand forecasting.
+
+Requirements
+- 3+ years of experience in data science or machine learning roles
+- Bachelor's degree in Computer Science, Statistics, Mathematics or a related field
+- Strong programming skills in Python (pandas, numpy, scikit-learn)
+- Solid SQL skills for data extraction and analysis
+- Good understanding of statistics, feature engineering and model evaluation
+- Experience with data visualization and communicating insights to stakeholders
+
+Nice to have
+- Deep learning experience with TensorFlow or PyTorch
+- NLP experience
+- Cloud experience (AWS) and Docker
+- Experience with MLOps practices such as MLflow

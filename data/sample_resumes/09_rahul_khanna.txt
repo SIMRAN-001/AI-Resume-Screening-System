@@ -1,0 +1,8 @@
+RAHUL KHANNA
+rahul.khanna@example.com | 9000090000
+
+SKILLS
+Python, Java, C++, SQL, machine learning, deep learning, NLP, computer vision, TensorFlow, PyTorch, Keras, scikit-learn, pandas, numpy, statistics, AWS, Azure, GCP, Docker, Kubernetes, Spark, Hadoop, Airflow, MLflow, LLM, data visualization, feature engineering, time series, Tableau, Power BI
+
+EDUCATION
+B.Tech in Electronics, 2021 - 2025

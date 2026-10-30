@@ -1,0 +1,16 @@
+VIKRAM JOSHI
+vikram.joshi@example.com | 9876501234
+
+SUMMARY
+Backend engineer with 8 years of experience in enterprise Java applications.
+
+SKILLS
+Java, Spring Boot, Microservices, SQL, MySQL, Kubernetes, Jenkins, Linux, Agile
+
+EXPERIENCE
+Lead Backend Engineer, BankSys  2016 - Present
+- Designed microservices with Spring Boot and Kubernetes
+- Optimised SQL queries and database schemas
+
+EDUCATION
+B.E in Computer Science, 2012 - 2016
